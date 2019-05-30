@@ -7,6 +7,9 @@ public class Demo {
 		System.out.println("Hello World");
 		System.out.println("Hello India");
 		System.out.println("Hello Pune");
+		
+		System.out.println("Hello Mumbai");
+		System.out.println("Hello nagpur");
 	}
 
 }
